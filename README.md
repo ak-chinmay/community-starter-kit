@@ -1,11 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
 - This project is about implementing community standards in Github repo
+- This information is quite useful to new developers
 
 ## What it does
 
-FEATURES PLACEHOLDER
 - This is the features placeholder where all the features will be listed
 - Need to follow features standards
 
